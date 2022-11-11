@@ -1,0 +1,24 @@
+.btn {
+    min-width: 119px;
+    min-height: 32px;
+    border-radius: 8px;
+    background-color: #3974b9;
+    border: none;
+    color: white;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.search_btn {
+    margin-top: 2em;
+}
+
+.form_cls {
+    display: flex;
+}

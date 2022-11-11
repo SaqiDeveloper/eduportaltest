@@ -1,0 +1,17 @@
+.top_tiles demo {
+    padding: 10px 10px;
+    font-size: 14px;
+    color: white;
+    float: right;
+}
+
+.summery {
+    border: 1px solid lightgray;
+}
+.item{
+    margin-top: 16px; font-size: 22px;
+}
+.modal{border-bottom:none;}
+.title{text-align:center;}
+.col_12{padding: 8px;}
+.container1{text-align: left;}

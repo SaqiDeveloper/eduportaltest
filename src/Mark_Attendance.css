@@ -1,0 +1,40 @@
+
+.btn{
+    min-width: 330px;
+    min-height: 60px;
+    border-radius: 8px;
+    background-color: #3974b9;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;}
+
+.btn-fixed{
+    min-width: 330px;
+    min-height: 60px;
+    border-radius: 8px;
+    background-color: #3974b9;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;}
+
+.btn-fixed:hover{
+    color: orange;
+}
+.Btns{
+    display: flex;
+    gap: 16px;
+}

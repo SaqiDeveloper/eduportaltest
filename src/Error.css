@@ -1,0 +1,24 @@
+.styling {
+    display: flex;
+    justify-content: center;
+    align-content: space-between;
+    background: #efa2a2;
+    padding: 10px;
+}
+
+.heading {
+    color: white;
+    padding-top: 10px;
+}
+
+button {
+    background-color: transparent;
+    color: white;
+    font-size: 16px;
+    padding: 9px 25px;
+    border-radius: 7px;
+    border: 1px solid white;
+    margin: 4px 0px;
+    cursor: pointer;
+    margin-left: 2em;
+}
